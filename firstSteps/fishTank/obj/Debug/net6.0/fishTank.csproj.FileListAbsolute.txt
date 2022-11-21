@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\fishTank\bin\Debug\net6.0\fishTank.exe
+C:\Users\Emil\source\repos\firstSteps\fishTank\bin\Debug\net6.0\fishTank.deps.json
+C:\Users\Emil\source\repos\firstSteps\fishTank\bin\Debug\net6.0\fishTank.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\fishTank\bin\Debug\net6.0\fishTank.dll
+C:\Users\Emil\source\repos\firstSteps\fishTank\bin\Debug\net6.0\fishTank.pdb
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.dll
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\refint\fishTank.dll
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.pdb
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\fishTank.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\fishTank\obj\Debug\net6.0\ref\fishTank.dll

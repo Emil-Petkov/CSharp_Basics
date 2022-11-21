@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\bin\Debug\net6.0\foodDelivery.exe
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\bin\Debug\net6.0\foodDelivery.deps.json
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\bin\Debug\net6.0\foodDelivery.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\bin\Debug\net6.0\foodDelivery.dll
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\bin\Debug\net6.0\foodDelivery.pdb
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.dll
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\refint\foodDelivery.dll
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.pdb
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\foodDelivery.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\foodDelivery\obj\Debug\net6.0\ref\foodDelivery.dll

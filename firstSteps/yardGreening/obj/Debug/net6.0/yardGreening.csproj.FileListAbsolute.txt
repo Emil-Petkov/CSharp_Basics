@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\yardGreening\bin\Debug\net6.0\yardGreening.exe
+C:\Users\Emil\source\repos\firstSteps\yardGreening\bin\Debug\net6.0\yardGreening.deps.json
+C:\Users\Emil\source\repos\firstSteps\yardGreening\bin\Debug\net6.0\yardGreening.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\yardGreening\bin\Debug\net6.0\yardGreening.dll
+C:\Users\Emil\source\repos\firstSteps\yardGreening\bin\Debug\net6.0\yardGreening.pdb
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.dll
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\refint\yardGreening.dll
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.pdb
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\yardGreening.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\yardGreening\obj\Debug\net6.0\ref\yardGreening.dll

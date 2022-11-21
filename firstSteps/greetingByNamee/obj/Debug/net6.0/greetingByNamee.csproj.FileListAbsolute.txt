@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\bin\Debug\net6.0\greetingByNamee.exe
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\bin\Debug\net6.0\greetingByNamee.deps.json
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\bin\Debug\net6.0\greetingByNamee.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\bin\Debug\net6.0\greetingByNamee.dll
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\bin\Debug\net6.0\greetingByNamee.pdb
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.dll
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\refint\greetingByNamee.dll
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.pdb
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\greetingByNamee.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\greetingByNamee\obj\Debug\net6.0\ref\greetingByNamee.dll

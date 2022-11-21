@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\bin\Debug\net6.0\radiansToDegrees.exe
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\bin\Debug\net6.0\radiansToDegrees.deps.json
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\bin\Debug\net6.0\radiansToDegrees.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\bin\Debug\net6.0\radiansToDegrees.dll
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\bin\Debug\net6.0\radiansToDegrees.pdb
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.dll
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\refint\radiansToDegrees.dll
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.pdb
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\radiansToDegrees.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\radiansToDegrees\obj\Debug\net6.0\ref\radiansToDegrees.dll

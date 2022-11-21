@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\firstSteps\bin\Debug\net6.0\firstSteps.exe
+C:\Users\Emil\source\repos\firstSteps\firstSteps\bin\Debug\net6.0\firstSteps.deps.json
+C:\Users\Emil\source\repos\firstSteps\firstSteps\bin\Debug\net6.0\firstSteps.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\firstSteps\bin\Debug\net6.0\firstSteps.dll
+C:\Users\Emil\source\repos\firstSteps\firstSteps\bin\Debug\net6.0\firstSteps.pdb
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.dll
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\refint\firstSteps.dll
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.pdb
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\firstSteps.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\firstSteps\obj\Debug\net6.0\ref\firstSteps.dll

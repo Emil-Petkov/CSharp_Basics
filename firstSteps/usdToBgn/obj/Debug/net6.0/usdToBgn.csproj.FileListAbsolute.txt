@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\bin\Debug\net6.0\usdToBgn.exe
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\bin\Debug\net6.0\usdToBgn.deps.json
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\bin\Debug\net6.0\usdToBgn.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\bin\Debug\net6.0\usdToBgn.dll
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\bin\Debug\net6.0\usdToBgn.pdb
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.dll
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\refint\usdToBgn.dll
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.pdb
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\usdToBgn.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\usdToBgn\obj\Debug\net6.0\ref\usdToBgn.dll

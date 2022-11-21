@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\petShop\bin\Debug\net6.0\petShop.exe
+C:\Users\Emil\source\repos\firstSteps\petShop\bin\Debug\net6.0\petShop.deps.json
+C:\Users\Emil\source\repos\firstSteps\petShop\bin\Debug\net6.0\petShop.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\petShop\bin\Debug\net6.0\petShop.dll
+C:\Users\Emil\source\repos\firstSteps\petShop\bin\Debug\net6.0\petShop.pdb
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.dll
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\refint\petShop.dll
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.pdb
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\petShop.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\petShop\obj\Debug\net6.0\ref\petShop.dll

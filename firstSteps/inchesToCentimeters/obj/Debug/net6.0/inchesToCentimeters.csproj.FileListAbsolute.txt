@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\bin\Debug\net6.0\inchesToCentimeters.exe
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\bin\Debug\net6.0\inchesToCentimeters.deps.json
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\bin\Debug\net6.0\inchesToCentimeters.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\bin\Debug\net6.0\inchesToCentimeters.dll
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\bin\Debug\net6.0\inchesToCentimeters.pdb
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.dll
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\refint\inchesToCentimeters.dll
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.pdb
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\inchesToCentimeters.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\inchesToCentimeters\obj\Debug\net6.0\ref\inchesToCentimeters.dll

@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\bin\Debug\net6.0\vacationBooksList.exe
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\bin\Debug\net6.0\vacationBooksList.deps.json
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\bin\Debug\net6.0\vacationBooksList.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\bin\Debug\net6.0\vacationBooksList.dll
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\bin\Debug\net6.0\vacationBooksList.pdb
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.dll
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\refint\vacationBooksList.dll
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.pdb
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\vacationBooksList.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\vacationBooksList\obj\Debug\net6.0\ref\vacationBooksList.dll

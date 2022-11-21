@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\concatenateData\bin\Debug\net6.0\concatenateData.exe
+C:\Users\Emil\source\repos\firstSteps\concatenateData\bin\Debug\net6.0\concatenateData.deps.json
+C:\Users\Emil\source\repos\firstSteps\concatenateData\bin\Debug\net6.0\concatenateData.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\concatenateData\bin\Debug\net6.0\concatenateData.dll
+C:\Users\Emil\source\repos\firstSteps\concatenateData\bin\Debug\net6.0\concatenateData.pdb
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.dll
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\refint\concatenateData.dll
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.pdb
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\concatenateData.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\concatenateData\obj\Debug\net6.0\ref\concatenateData.dll

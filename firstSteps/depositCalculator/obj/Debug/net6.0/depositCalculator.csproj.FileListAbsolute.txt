@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\bin\Debug\net6.0\depositCalculator.exe
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\bin\Debug\net6.0\depositCalculator.deps.json
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\bin\Debug\net6.0\depositCalculator.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\bin\Debug\net6.0\depositCalculator.dll
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\bin\Debug\net6.0\depositCalculator.pdb
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.dll
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\refint\depositCalculator.dll
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.pdb
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\depositCalculator.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\depositCalculator\obj\Debug\net6.0\ref\depositCalculator.dll

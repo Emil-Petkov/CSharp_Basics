@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\repainting\bin\Debug\net6.0\repainting.exe
+C:\Users\Emil\source\repos\firstSteps\repainting\bin\Debug\net6.0\repainting.deps.json
+C:\Users\Emil\source\repos\firstSteps\repainting\bin\Debug\net6.0\repainting.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\repainting\bin\Debug\net6.0\repainting.dll
+C:\Users\Emil\source\repos\firstSteps\repainting\bin\Debug\net6.0\repainting.pdb
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.dll
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\refint\repainting.dll
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.pdb
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\repainting.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\repainting\obj\Debug\net6.0\ref\repainting.dll

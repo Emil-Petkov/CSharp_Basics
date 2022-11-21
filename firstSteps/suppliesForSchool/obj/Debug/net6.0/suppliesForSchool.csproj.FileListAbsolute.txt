@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\bin\Debug\net6.0\suppliesForSchool.exe
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\bin\Debug\net6.0\suppliesForSchool.deps.json
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\bin\Debug\net6.0\suppliesForSchool.runtimeconfig.json
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\bin\Debug\net6.0\suppliesForSchool.dll
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\bin\Debug\net6.0\suppliesForSchool.pdb
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.AssemblyInfo.cs
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.dll
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\refint\suppliesForSchool.dll
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.pdb
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\suppliesForSchool.genruntimeconfig.cache
+C:\Users\Emil\source\repos\firstSteps\suppliesForSchool\obj\Debug\net6.0\ref\suppliesForSchool.dll
